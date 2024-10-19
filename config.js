@@ -48,7 +48,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 global.country = `94`
 global.system = {
-gmail: `samuelcircute@gmail.com`,
+gmail: `tharindudilruksha2007@gmail.com`,
 }
 
 //===========================//
